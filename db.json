@@ -4,6 +4,82 @@
 
   ],
   "hotels":[
-      
-    ]
+  {
+    "category": "Deluxe",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "non-ac",
+    "bed_type": "double",
+    "no_of_persons": "15",
+    "capacity": "15",
+    "cost": "1000",
+    "booked": false,
+    "id": 1
+  },
+  {
+    "category": "Suite",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "ac",
+    "bed_type": "double",
+    "no_of_persons": "2",
+    "capacity": "2",
+    "cost": "2000",
+    "booked": false,
+    "id": 2
+  },
+  {
+    "category": "Family",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "non-ac",
+    "bed_type": "double",
+    "no_of_persons": "13",
+    "capacity": "13",
+    "cost": "1300",
+    "booked": false,
+    "id": 3
+  },
+  {
+    "category": "Deluxe",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "ac",
+    "bed_type": "",
+    "no_of_persons": "12",
+    "capacity": "12",
+    "cost": "1200",
+    "booked": false,
+    "id": 4
+  },
+  {
+    "category": "Suite",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "non-ac",
+    "bed_type": "double",
+    "no_of_persons": "20",
+    "capacity": "20",
+    "cost": "2200",
+    "booked": false,
+    "id": 5
+  },
+  {
+    "category": "Suite",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "ac",
+    "bed_type": "single",
+    "no_of_persons": "10",
+    "capacity": "10",
+    "cost": "1100",
+    "booked": false,
+    "id": 6
+  },
+  {
+    "category": "Deluxe",
+    "image_url": "https://source.unsplash.com/random/?Hotel",
+    "type_of_room": "ac",
+    "bed_type": "single",
+    "no_of_persons": "11",
+    "capacity": "11",
+    "cost": "1200",
+    "booked": false,
+    "id": 7
+  }
+]
 }
